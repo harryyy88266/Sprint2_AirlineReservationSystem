@@ -1,3 +1,0 @@
-admin123 admin123
-admin345 admin345
-admin678 admin678
