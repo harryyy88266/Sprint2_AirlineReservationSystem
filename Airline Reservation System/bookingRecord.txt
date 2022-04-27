@@ -1,9 +1,0 @@
-1 F123 Sandip belote 12345 Pune Mumbai 12-05-2022 -858993460 2  -1.07374e+08 0
-2 F234 Sandip  1234456 Pune Delhi 13-05-2022 -858993460 4  -1.07374e+08 0
-3 F234 sandip belote 145677 Pune Delhi 13-05-2022 -858993460 2  -1.07374e+08 0
-4 F234 San belote  766666 Pune Delhi 13  4 -1.07374e+08 0
-5 F234 sandip belote 123221 Pune Delhi 13-05-2022 13 3  -1.07374e+08 0
-6 F234 xyz 1232 Pune Delhi 13-05-2022  2   8000 1
-7 Mumbai ssss 1232 Pune Delhi Pune  5   0 0
-8 F234 ssdsdss 12345 Pune Delhi 13-05-2022  3   12000 0
-9 F234 sandip patil 1234 Pune Delhi 13-05-2022  4   16000 1
